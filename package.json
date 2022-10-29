@@ -16,9 +16,9 @@
   "dependencies": {
     "animated-webp-info": "^0.0.3",
     "child_process": "^1.0.2",
-    "ffmpeg": "^0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "^0.0.1-security",
+    "node-webp": "^1.0.2",
     "webp-converter": "^2.3.3"
   }
 }
