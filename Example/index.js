@@ -3,6 +3,12 @@ import {
   setExif
 } from "../index.js"
 
+/*
+termux:
+> pkg install ffmpeg
+> pkg install libwebp
+*/
+
 async function teste({path, savePath, author, packname}){
   try {
     
